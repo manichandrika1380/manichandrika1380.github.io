@@ -40,18 +40,18 @@
 		<img alt="Repo Size" src="https://img.shields.io/github/repo-size/manichandrika1380/manichandrika1380.github.io"/>
 	</p>
 	<p>
-		<img alt="Github Deployment Status" src="https://github.com/manichandrika1380/manichandrika1380.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages&dummy=unused"/> •
-		<img src="https://github.com/manichandrika1380/manichandrika1380.github.io/actions/workflows/publish-docker.yml/badge.svg?dummy=unused" alt="Docker Image Status"/>
+		<img alt="Github Deployment Status" src="https://github.com/manichandrika1380/manichandrika1380.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages&dummy=unused"/> 
+		<!-- <img src="https://github.com/manichandrika1380/manichandrika1380.github.io/actions/workflows/publish-docker.yml/badge.svg?dummy=unused" alt="Docker Image Status"/> -->
 	</p>
 </div>
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://manichandrika1380.github.io/">
     <img src="screenshots/screenshot.gif" alt="landing page"/>
   </a>
-</p>
+</p> -->
 
 
 ## Table of Contents :scroll:
@@ -65,9 +65,6 @@
 - [Sections](#sections-bookmark)
 - [Folder Structure](#folder-structure-open_file_folder)
 - [Search engine optimization(SEO)](#search-engine-optimizationseo-spider)
-- [PageSpeed Insights](#pagespeed-insights)
-- [Creator / Maintainer](#creator--maintainer-man_technologist)
-- [Contributing](#-contributing)
 - [Contributors](#contributors-)
 - [License](#-license)
 
@@ -263,9 +260,9 @@ docker --version
 	- About
 	- Skill
 	- Education
+- Experience
 - Portfolio
-- Training
-- Achievement
+- Education
 - Contact
 
 
@@ -370,10 +367,10 @@ docker --version
 |   |   |   quote-img.webp
 |   |   |   safari-pinned-tab.svg
 |   |   |   
-|   |   +---achievement
-|   |   |       DataScience.webp
-|   |   |       HackerRank.webp
-|   |   |       Hacktoberfest.webp
+|   |   +---education
+|   |   |       University of Cincinnati.webp
+|   |   |       SASTRA University.webp
+|   |   |       
 |   |   |       
 |   |   \---portfolio
 |   |           A-Social-Media.webp
@@ -398,9 +395,7 @@ docker --version
         font-awesome-icon.png
         font.png
         icon.png
-        PageSpeedInsight Desktop.png
-        PageSpeedInsight Mobile.png
-        screenshot.gif
+	
 </pre>
 
 
@@ -464,56 +459,42 @@ Add the below code snippet to `index.html` with your site info. This step is not
 ```
 
 
-## PageSpeed Insights
-
-PageSpeed Insights (PSI) reports on the performance of a page on both mobile and desktop devices, and provides suggestions on how that page may be improved.
-
-- **Desktop**
-
-  [![PageSpeed Insight Desktop](screenshots/PageSpeedInsight%20Desktop.png)](https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Fmanichandrika1380.github.io%2F&strategy=desktop&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa)
-
-- **Mobile**
-
-  [![PageSpeed Insight Mobile](screenshots/PageSpeedInsight%20Mobile.png)](https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Fmanichandrika1380.github.io%2F&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa)
 
 
-## Creator / Maintainer :man_technologist:
+
+
+
+## Maintainer :man_technologist:
 
 👤 Mani chandrika ([manichandrika1380](https://github.com/manichandrika1380))
 
-If you have any questions, comments, or concerns, feel free to contact me below.
 
 <p align="left">
-	<a href="https://www.linkedin.com/in/manichandrika1380"> 
+	<a href="https://www.linkedin.com/in/mckotha/"> 
     	<img alt="Connect via LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   	</a>
 	<a href="mailto:manichandrika.java@gmail.com"> 
 		<img alt="Connect via Email" src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
 	</a>
-	<a href="https://www.twitter.com/manichandrika1380"> 
+	<!-- <a href="https://www.twitter.com/manichandrika1380"> 
     	<img alt="Connect via Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
-  	</a>
+  	</a> -->
 </p>
 
-This project was created for educational purposes and for personal use. Feel free to take inspiration.
+
 
 If you like my content or find this code useful, give it a ⭐.
 
 
-## 🤝 Contributing
 
-Contributions, Issues and Feature requests are Welcome!
 
-Feel free to check the [Issues page](https://github.com/manichandrika1380/manichandrika1380.github.io/issues/).
 
 
 ## Contributors ✨
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -521,9 +502,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://manichandrika1380.github.io"><img src="https://avatars.githubusercontent.com/u/54479676?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mani chandrika</b></sub></a><br /><a href="https://github.com/manichandrika1380/manichandrika1380.github.io/commits?author=manichandrika1380" title="Code">💻</a> <a href="#ideas-manichandrika1380" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/manichandrika1380/manichandrika1380.github.io/commits?author=manichandrika1380" title="Tests">⚠️</a> <a href="#maintenance-manichandrika1380" title="Maintenance">🚧</a> <a href="https://github.com/manichandrika1380/manichandrika1380.github.io/commits?author=manichandrika1380" title="Documentation">📖</a> <a href="#design-manichandrika1380" title="Design">🎨</a> <a href="https://github.com/manichandrika1380/manichandrika1380.github.io/pulls?q=is%3Apr+reviewed-by%3Amanichandrika1380" title="Reviewed Pull Requests">👀</a> <a href="#content-manichandrika1380" title="Content">🖋</a> <a href="#a11y-manichandrika1380" title="Accessibility">️️️️♿️</a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/anchal-p-908643b6/"><img src="https://avatars.githubusercontent.com/u/73632448?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anchal Pandey</b></sub></a><br /><a href="https://github.com/manichandrika1380/manichandrika1380.github.io/issues?q=author%3Acode1511" title="Bug reports">🐛</a></td>
-    <td align="center"><a href="https://emmadawson.dev"><img src="https://avatars.githubusercontent.com/u/57045550?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Emma Dawson</b></sub></a><br /><a href="https://github.com/manichandrika1380/manichandrika1380.github.io/issues?q=author%3Aemmalearnscode" title="Bug reports">🐛</a> <a href="#ideas-emmalearnscode" title="Ideas, Planning, & Feedback">🤔</a> <a href="#a11y-emmalearnscode" title="Accessibility">️️️️♿️</a></td>
-    <td align="center" valign="top" width="14.28%"><a href="https://github.com/NarpatAanjana"><img src="https://avatars.githubusercontent.com/u/86047565?v=4?s=100" width="100px;" alt="Narpat Aanjana"/><br /><sub><b>Narpat Aanjana</b></sub></a><br /><a href="https://github.com/manichandrika1380/manichandrika1380.github.io/issues?q=author%3ANarpatAanjana" title="Bug reports">🐛</a></td>
+    <!-- <td align="center"><a href="https://www.linkedin.com/in/anchal-p-908643b6/"><img src="https://avatars.githubusercontent.com/u/73632448?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anchal Pandey</b></sub></a><br /><a href="https://github.com/manichandrika1380/manichandrika1380.github.io/issues?q=author%3Acode1511" title="Bug reports">🐛</a></td> -->
+    <!-- <td align="center"><a href="https://emmadawson.dev"><img src="https://avatars.githubusercontent.com/u/57045550?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Emma Dawson</b></sub></a><br /><a href="https://github.com/manichandrika1380/manichandrika1380.github.io/issues?q=author%3Aemmalearnscode" title="Bug reports">🐛</a> <a href="#ideas-emmalearnscode" title="Ideas, Planning, & Feedback">🤔</a> <a href="#a11y-emmalearnscode" title="Accessibility">️️️️♿️</a></td> -->
+    <!-- <td align="center" valign="top" width="14.28%"><a href="https://github.com/NarpatAanjana"><img src="https://avatars.githubusercontent.com/u/86047565?v=4?s=100" width="100px;" alt="Narpat Aanjana"/><br /><sub><b>Narpat Aanjana</b></sub></a><br /><a href="https://github.com/manichandrika1380/manichandrika1380.github.io/issues?q=author%3ANarpatAanjana" title="Bug reports">🐛</a></td> -->
   </tr>
 </table>
 
